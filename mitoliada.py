@@ -16,13 +16,13 @@ print("| |\/| | | |    | | | |  | | |      | |   / /\ \ | |  | |/ /\ \  ")
 print("| |  | |_| |_   | | | |__| | |____ _| |_ / ____ \| |__| / ____ \ ")
 print("|_|  |_|_____|  |_|  \____/|______|_____/_/    \_\_____/_/    \_\  2976")
 print("Autor I  : Maks Skica")
-#print("Autor II : **********") edit 05.05.2017, name cesored
+#print("Autor II : **********") edit 05.05.2017, name censored
 print("")
 time.sleep(10)
 print("")
 time.sleep(0.05) ### ahh.. from my today view this code really sucks
-print("")       ### please don't shame on me because of it
-time.sleep(0.05) ### I was only 12 ;P and 'for' was a mystical word =
+print("")
+time.sleep(0.05) ### I was only 12 ;P and 'for' was such a mystical word =
 print("")
 time.sleep(0.05)
 print("")
@@ -110,7 +110,6 @@ pytanie46 = "Kim byl Hektor?"
 pytanie47 = "Kogo to atrybut? (Obrazek 8)"
 pytanie48 = "Czemu Hefajstos byl kulawy?"
 pytanie50 = "Jaka byla kara Tantala?"
-
 pytanie49 = "Czym opiekowala sie bogini Iris?"
 pytanie44 = "Kto byl krolem Sparty za czasow Odyseusza?"
 print(pytanie1)
